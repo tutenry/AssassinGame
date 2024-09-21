@@ -1,0 +1,2 @@
+['Seth', 'Conner', 'Austin', 'Rylan', 'Jack', 'Mann']
+{'Seth': 'Conner', 'Conner': 'Austin', 'Austin': 'Rylan', 'Rylan': 'Jack', 'Jack': 'Mann', 'Mann': 'Seth'}

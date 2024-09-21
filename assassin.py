@@ -70,7 +70,7 @@ def ask_name():
     while Time < current_time + 3:
       Time = time.time()
   
-  os.system("clear")
+  os.system("cls")
 
 def remove_name():
   delete_name = input("Enter a name to delete\n")
@@ -97,7 +97,7 @@ def remove_name():
         
         
       
-  os.system("clear")
+  os.system("cls")
   
 
 def print_book():
@@ -109,7 +109,7 @@ def start_game():
     new_game()
   else:
     resume_game()
-  os.system("clear")
+  os.system("cls")
     
 
 start_game()
